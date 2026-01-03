@@ -80,7 +80,7 @@ Vision-Pro-Web-Experience/
      **OR**
    * Use VS Code Live Server for best experience
 
----
+
 
 ## Learning Outcomes
 
@@ -89,7 +89,7 @@ Vision-Pro-Web-Experience/
 * Experience recreating premium product marketing pages
 * Better structuring of front-end projects for readability and scalability
 
----
+
 
 ## Disclaimer
 
