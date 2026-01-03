@@ -72,14 +72,14 @@ Vision-Pro-Web-Experience/
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/Vision-Pro-Web-Experience.git
-````
+
 
 2. Open the project
 
    * Simply open `index.html` in your browser
      **OR**
    * Use VS Code Live Server for best experience
-
+````
 
 
 ## Learning Outcomes
