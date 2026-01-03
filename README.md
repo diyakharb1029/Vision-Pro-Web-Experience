@@ -1,6 +1,105 @@
-This project is a clone of the Apple Vision Pro website. It is aimed to practice front-end web development skills by replicating the design and functionality of an existing website.
+# Vision Pro Web Experience
+
+A high-fidelity front-end recreation of the Apple Vision Pro landing experience.  
+This project was built as a UI/UX and animation study to practice modern layouts, smooth interactions, and responsive design using vanilla web technologies.
 
 
-<img width="982" alt="Screenshot 2024-04-25 at 3 28 30 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/69c9610e-60bd-4294-a643-9cf47f1e650e">
-<img width="1412" alt="Screenshot 2024-04-25 at 3 28 42 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/097ca477-a0e5-4b3e-86c3-c22ec17dffe0">
-<img width="1407" alt="Screenshot 2024-04-25 at 3 29 00 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/3d4f4666-d333-4c23-b8ee-e5235d6d0c73">
+
+## Live Demo
+> (Optional but highly recommended)  
+Add your deployed link here once hosted via GitHub Pages / Netlify / Vercel.
+
+
+
+## Project Highlights
+
+- High-fidelity landing page recreation inspired by Apple Vision Pro
+- Clean typography, spacing, and layout alignment
+- Smooth scroll-based sections and visual transitions
+- Fully responsive design across desktop and smaller screens
+- Minimal, readable, and well-structured front-end code
+- Performance-friendly assets and layout flow
+
+
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+
+
+## Screenshots
+
+### Hero Section
+![Hero Section](screenshots/1.png)
+
+
+
+### Product Overview
+![Product Overview](screenshots/2.png)
+
+
+
+### Immersive Experience Section
+![Immersive Experience](screenshots/3.png)
+
+---
+
+### Visual Focus & Call-To-Action
+![CTA Section](screenshots/4.png)
+
+
+
+## Folder Structure
+
+```
+
+Vision-Pro-Web-Experience/
+│
+├── screenshots/        # Screenshots used in README
+├── Media/              # Images and media assets
+├── Canvas VP/          # Additional visual assets
+│
+├── index.html          # Main HTML file
+├── style.css           # Styling
+├── script.js           # JavaScript interactions
+├── README.md           # Project documentation
+└── .gitignore
+
+````
+
+
+
+## Getting Started (Run Locally)
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/Vision-Pro-Web-Experience.git
+````
+
+2. Open the project
+
+   * Simply open `index.html` in your browser
+     **OR**
+   * Use VS Code Live Server for best experience
+
+---
+
+## Learning Outcomes
+
+* Improved understanding of modern UI/UX layout principles
+* Hands-on practice with spacing, typography, and visual hierarchy
+* Experience recreating premium product marketing pages
+* Better structuring of front-end projects for readability and scalability
+
+---
+
+## Disclaimer
+
+This project is created for **educational and portfolio purposes only**.
+Apple, Apple Vision Pro, and related branding are trademarks of Apple Inc.
+This project is **not affiliated with or endorsed by Apple**.
+
+```
