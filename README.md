@@ -45,11 +45,6 @@ Add your deployed link here once hosted via GitHub Pages / Netlify / Vercel.
 ### Immersive Experience Section
 ![Immersive Experience](screenshots/3.png)
 
----
-
-### Visual Focus & Call-To-Action
-![CTA Section](screenshots/4.png)
-
 
 
 ## Folder Structure
@@ -101,5 +96,3 @@ Vision-Pro-Web-Experience/
 This project is created for **educational and portfolio purposes only**.
 Apple, Apple Vision Pro, and related branding are trademarks of Apple Inc.
 This project is **not affiliated with or endorsed by Apple**.
-
-```
