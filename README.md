@@ -53,14 +53,14 @@ Add your deployed link here once hosted via GitHub Pages / Netlify / Vercel.
 
 Vision-Pro-Web-Experience/
 │
-├── screenshots/        # Screenshots used in README
-├── Media/              # Images and media assets
-├── Canvas VP/          # Additional visual assets
+├── screenshots/       
+├── Media/             
+├── Canvas VP/          
 │
-├── index.html          # Main HTML file
-├── style.css           # Styling
-├── script.js           # JavaScript interactions
-├── README.md           # Project documentation
+├── index.html          
+├── style.css           
+├── script.js        
+├── README.md         
 └── .gitignore
 
 ````
